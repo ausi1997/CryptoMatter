@@ -33,7 +33,7 @@ const SearchCoins = coins.filter(coin=>
         <form>
         <input
          type="text"
-         placeholder="Search"
+         placeholder="search..."
          className="coin-input"
          onChange={Search}
         ></input>
